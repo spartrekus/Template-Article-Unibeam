@@ -1,0 +1,61 @@
+
+// UNIBEAM Document
+// Markup for Latex
+
+!input{header.mrk}
+\begin{document}
+
+
+\clearpage
+\title{My Article}
+\author{Author}
+\date{2000}
+\maketitle
+//\tableofcontents
+
+
+
+!= Example of a section
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et ante aliquam, hendrerit magna ut, aliquet eros. Vestibulum vestibulum risus ac est varius, ac tincidunt sem finibus. Nam mi lectus, fringilla vitae metus sed, posuere venenatis mauris. Nulla tellus nisl, rutrum vitae turpis quis, sollicitudin vehicula nunc. Mauris ullamcorper, risus nec iaculis pretium, mi odio porttitor neque, vitae elementum eros orci eu sem. Vestibulum facilisis velit nunc, et luctus lacus dictum nec. Proin scelerisque neque imperdiet odio luctus, sit amet porta sem tristique. Quisque id ullamcorper velit, id interdum sapien. Phasellus eget dui ut est hendrerit sollicitudin. Fusce porta tristique leo, nec mollis turpis tempor ut. Curabitur venenatis felis vel lacus gravida faucibus. Aenean maximus erat sed tellus aliquam cursus. Suspendisse potenti. Fusce sollicitudin mauris at tortor aliquam finibus.
+
+Curabitur at rutrum enim, in rutrum elit. Vestibulum mattis dolor a vulputate posuere. Quisque vehicula lorem eros. Maecenas blandit ipsum et nisl condimentum, ut euismod augue ultrices. Aliquam sodales convallis sollicitudin. Quisque eget erat non diam tincidunt pretium. Nunc ex felis, volutpat quis eros eu, pellentesque bibendum tellus. Ut accumsan risus id dapibus tincidunt. Vivamus sit amet fermentum tellus. Etiam vehicula, mi ut rhoncus feugiat, lectus massa tincidunt dolor, at dignissim arcu purus non massa. Aenean egestas sit amet libero vel faucibus. In hac habitasse platea dictumst.
+
+Sed dui nunc, semper a libero sed, ornare imperdiet eros. Phasellus lacinia diam non sapien egestas varius. Etiam eu tortor turpis. Praesent tincidunt eu ante vel tincidunt. Sed efficitur ut magna vitae blandit. Sed suscipit viverra lectus. Mauris ornare nisi diam, eu porttitor dolor sollicitudin ut. Maecenas mi nulla, iaculis eget pretium at, volutpat nec enim. Proin iaculis porta neque. Vivamus tristique diam ut elit venenatis, quis tincidunt velit dictum. Mauris egestas viverra urna. Ut viverra arcu sed maximus porttitor. Praesent tristique sit amet nibh et dictum. Etiam placerat mollis dictum.
+
+Ut rutrum mollis blandit. Proin euismod justo vitae enim faucibus, eget efficitur tellus mollis. Praesent maximus ac risus sed hendrerit. Mauris sit amet rhoncus purus, nec bibendum dolor. Nunc eget arcu sagittis, rutrum magna sit amet, dictum magna. Duis in urna volutpat, condimentum ipsum vel, placerat leo. Sed eros est, consectetur rhoncus mollis nec, lacinia vitae ligula. In enim nulla, bibendum sed nisl in, tempor porta mi. Nullam tempor, dolor sit amet maximus lobortis, eros arcu condimentum erat, ac sollicitudin ipsum diam at elit. Nam sagittis purus ac ante scelerisque tincidunt.
+
+Duis a tortor ullamcorper libero ornare ornare. Mauris lacinia quam eget quam tincidunt scelerisque. Vestibulum convallis leo et sem porta, nec posuere tortor lobortis. Vivamus pretium mauris libero, eu sodales enim efficitur at. Cras dignissim tincidunt sapien at eleifend. Quisque gravida leo vitae ipsum suscipit, eget facilisis libero sagittis. Vestibulum bibendum dolor augue. Fusce dapibus mauris augue. Donec malesuada ac ante eget pretium. Pellentesque facilisis erat ut purus accumsan placerat. Fusce quis laoreet quam, in tempus justo. Fusce scelerisque odio quis erat viverra porta. Aenean mollis, risus vitae auctor ornare, orci felis pharetra est, sed tincidunt lacus nulla pulvinar dolor. Integer metus diam, tincidunt ac ipsum eget, iaculis efficitur lorem. Duis ac hendrerit nisi, vel gravida risus. Aliquam luctus suscipit viverra.
+
+Sed dapibus libero sed lectus porta, vel vehicula arcu dictum. Proin mollis suscipit leo accumsan molestie. Aliquam enim ipsum, blandit vel urna et, cursus dictum ante. Suspendisse placerat elementum eros quis egestas. Maecenas eleifend tellus ligula, a fringilla libero gravida sit amet. Morbi vitae velit nec enim aliquam sagittis. Vestibulum tempor tincidunt orci, eu malesuada turpis tincidunt sit amet. Integer justo ligula, fringilla a ultricies vitae, interdum pharetra erat. Nulla tincidunt viverra nisl vitae pretium.
+
+Sed ac risus eros. Integer sagittis, augue sed euismod tempus, est ex semper tortor, sit amet interdum risus justo non purus. Nunc sagittis magna ac quam congue ultricies. Sed et ex ut felis tincidunt ornare quis a lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla odio massa, vestibulum et est et, ullamcorper finibus nisi. Sed fringilla ultrices ante, vel elementum sapien faucibus vitae. Duis est ante, mattis quis tincidunt interdum, imperdiet a diam.
+
+Cras nulla ipsum, dignissim quis condimentum sollicitudin, viverra sed neque. Aliquam placerat urna nibh, elementum ullamcorper arcu semper quis. Etiam blandit scelerisque ante. Etiam tempus, lorem fringilla hendrerit volutpat, diam dui scelerisque velit, sit amet mattis lacus massa in odio. Sed interdum nibh ac mauris scelerisque pellentesque. Cras condimentum turpis id mi volutpat, fringilla volutpat purus bibendum. Maecenas ut efficitur turpis. Vestibulum tempus justo vitae diam ullamcorper euismod. Donec hendrerit pulvinar quam eu vehicula. In hac habitasse platea dictumst. Pellentesque dictum pharetra arcu, eget varius nulla hendrerit et. 
+
+
+
+Sed dapibus libero sed lectus porta, vel vehicula arcu dictum. Proin mollis suscipit leo accumsan molestie. Aliquam enim ipsum, blandit vel urna et, cursus dictum ante. Suspendisse placerat elementum eros quis egestas. Maecenas eleifend tellus ligula, a fringilla libero gravida sit amet. Morbi vitae velit nec enim aliquam sagittis. Vestibulum tempor tincidunt orci, eu malesuada turpis tincidunt sit amet. Integer justo ligula, fringilla a ultricies vitae, interdum pharetra erat. Nulla tincidunt viverra nisl vitae pretium.
+
+Sed ac risus eros. Integer sagittis, augue sed euismod tempus, est ex semper tortor, sit amet interdum risus justo non purus. Nunc sagittis magna ac quam congue ultricies. Sed et ex ut felis tincidunt ornare quis a lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla odio massa, vestibulum et est et, ullamcorper finibus nisi. Sed fringilla ultrices ante, vel elementum sapien faucibus vitae. Duis est ante, mattis quis tincidunt interdum, imperdiet a diam.
+
+Cras nulla ipsum, dignissim quis condimentum sollicitudin, viverra sed neque. Aliquam placerat urna nibh, elementum ullamcorper arcu semper quis. Etiam blandit scelerisque ante. Etiam tempus, lorem fringilla hendrerit volutpat, diam dui scelerisque velit, sit amet mattis lacus massa in odio. Sed interdum nibh ac mauris scelerisque pellentesque. Cras condimentum turpis id mi volutpat, fringilla volutpat purus bibendum. Maecenas ut efficitur turpis. Vestibulum tempus justo vitae diam ullamcorper euismod. Donec hendrerit pulvinar quam eu vehicula. In hac habitasse platea dictumst. Pellentesque dictum pharetra arcu, eget varius nulla hendrerit et. 
+
+
+///////////////////////////////////////
+///////////////////////////////////////
+!== Example of Subsection
+This is an example Nobody06~\cite{Nobody06} to cite a given reference (from bib file).
+//Figure \ref{fig:27836423423} shows an example of displaying Figures in the manuscript.~\cite{Nobody06}.
+Figure \ref{fig:2783643454} shows an example of Figure (two figures). 
+Figure \ref{fig:27836423423} shows another example (one figure only).\cite{Nobody06}.
+This is another example to cite a given author (Nobody06).\cite{Nobody06}
+
+\myfigab{figs/pic.png}{figs/pic.png}{Caption of the figure}{fig:2783643454}
+\myfig{pic.png}{Figure}{fig:27836423423}
+
+\bibliography{mybib}{}
+\bibliographystyle{ieeetr}
+\end{document}
+
+
+
